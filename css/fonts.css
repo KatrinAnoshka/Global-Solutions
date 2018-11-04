@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'DIN Pro';
+    src: url('../fonts/DIN/DINPro.eot');
+    src: url('../fonts/DIN/DINPro.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DIN/DINPro.woff') format('woff'),
+    url('../fonts/DIN/DINPro.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DIN Pro Bold';
+    font-style: normal;
+    font-weight: bold;
+    src: url('../fonts/DIN/DINPro.eot');
+    src: url('../fonts/DIN/DINPro.eot?#iefix')format("embedded-opentype"),
+    url('../fonts/DIN/DINPro.woff') format('woff'),
+    url('../fonts/DIN/DINPro.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Circe';
+    src: url('../fonts/Circe/Circe-Bold.eot');
+    src: local('../fonts/Circe/Circe Bold'), local('Circe-Bold'),
+        url('../fonts/Circe/Circe-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Circe/Circe-Bold.woff') format('woff'),
+        url('../fonts/Circe/Circe-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
